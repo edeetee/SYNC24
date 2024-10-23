@@ -4,3 +4,5 @@
 /TDImportCache
 .DS_Store
 *.mov
+/OUTPUT
+**/blendcache_*/**
